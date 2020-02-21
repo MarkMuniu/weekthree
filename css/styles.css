@@ -13,8 +13,10 @@
 }
 
 #services {
-  background-image: url('../images/bkg2.jpg');
+  background-image: url('/images/bkg2.jpg');
+  background-size: 400, 300;
   text-align: center;
+  color: white;
 
 }
 
