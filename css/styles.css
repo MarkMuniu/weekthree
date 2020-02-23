@@ -24,6 +24,7 @@
 
 #wwd {
   text-align: center;
+  margin-bottom: 5rem;
 }
 
 #portfolio {
@@ -32,4 +33,11 @@
 
 .col-md-3 {
   margin-bottom: 2rem;
+}
+
+#contactus {
+  background-image: url('/images/bkg3.jpg');
+  height: 100%;
+  width: 100%;
+  color: white;
 }
