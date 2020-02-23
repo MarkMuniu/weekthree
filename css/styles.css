@@ -35,9 +35,42 @@
   margin-bottom: 2rem;
 }
 
-#contactus {
+.contactus {
   background-image: url('/images/bkg3.jpg');
   height: 650px;
   width: 1350px;
   color: white;
+}
+
+.contactus h4 {
+  text-align: center;
+  margin-top: 5rem; 
+}
+
+#name {
+  background: none;
+  border: 2px solid rgb(216, 199, 199);
+  color: white;
+  width: 500px;
+  height: 45px;
+  margin: 5rem;
+}
+
+#email {
+  background: none;
+  border: 2px solid rgb(216, 199, 199);
+  color: white;
+  width: 500px;
+  height: 45px;
+  margin-right: 9rem;
+
+}
+
+#message {
+  background: none;
+  border: 2px solid rgb(216, 199, 199);
+  color: white;
+  width: 1100px;
+  height: 250px;
+  margin-left: 5rem;
 }
