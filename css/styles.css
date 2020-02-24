@@ -33,6 +33,15 @@
   margin-bottom: 5rem;
 }
 
+.clickable {
+  cursor: pointer;
+  color: rgb(233, 240, 240)
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
 #portfolio {
   text-align: center;
 }
