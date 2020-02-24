@@ -3,7 +3,9 @@ $(document).ready(function() {
     $(".fade").fadeIn();
   });
   $(".clickable").click(function(){
-    $(".col-md-4").toggle();
+    $(".designtoggle").toggle();
+    $(".devtoggle").toggle();
+    $(".prodtoggle").toggle();
   });
 });
 
