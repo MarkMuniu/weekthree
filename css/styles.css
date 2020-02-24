@@ -74,3 +74,13 @@
   height: 250px;
   margin-left: 5rem;
 }
+
+.col-md-1 {
+  margin-top: 2rem;
+  margin-left: 1rem;
+}
+
+#outro {
+  text-align: center;
+  margin-top: 2rem; 
+}
